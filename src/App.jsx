@@ -23,10 +23,10 @@ function App() {
        link="https://generalcatalogue2025.eu/deliver2yougift/#page/455"/>
       <ProductsList 
         data={[
-        {id:1, text:"Bolígrafo Puntero Fobox", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/441", image:image1},
-        {id:2, text:"Lápiz Eterno Soiny", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/437", image:image2},
-        {id:3, text:"Bolígrafo Bropex", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/471", image:image3},
-        {id:4, text:"Estuche Marfik", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/476", image:image4},
+        {id:1, text:"Esferografica Ponteiro Fobox", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/441", image:image1},
+        {id:2, text:"Lapis Eterno Soiny", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/437", image:image2},
+        {id:3, text:"Esferografica Bropex", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/471", image:image3},
+        {id:4, text:"Estojo Marfik", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/476", image:image4},
         ]}
         title="Outros produtos desta categoria"/>
       <Catalogue text="Conheça os nossos outros produtos associados à escrita" link="https://generalcatalogue2025.eu/deliver2yougift/#page/414  "/>
