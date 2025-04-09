@@ -19,7 +19,7 @@ function App() {
        image={imageMain} 
        title="Set Niveum: Elegância e Sofisticação em Pormenor" 
        desc1="O Set Niveum representa o encontro perfeito entre funcionalidade e design refinado. Composto por duas canetas elegantes e um estojo em couro sintético, este conjunto é ideal para profissionais e entusiastas que valorizam pormenores e estilo."
-       desc2="Fabricado em materiais de alta qualidade - poliuretano (PU) e metal - o conjunto combina durabilidade com um aspeto contemporâneo e sofisticado. Com um diâmetro compacto de 13,6 cm e um peso leve, torna-se um acessório prático e discreto para qualquer ocasião."
+       desc2="Fabricado em materiais de alta qualidade - poliuretano (PU) e metal - o conjunto combina durabilidade com um aspeto contemporâneo e sofisticado. Com um peso leve, torna-se um acessório prático e discreto para qualquer ocasião."
        link="https://generalcatalogue2025.eu/deliver2yougift/#page/455"/>
       <ProductsList 
         data={[
